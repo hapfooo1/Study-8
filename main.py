@@ -1,4 +1,2 @@
-21212121121
-21212121
-2121
-5515
+import os
+os.system('python function_19377378.py')
